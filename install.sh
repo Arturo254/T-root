@@ -90,4 +90,12 @@ printf "$A[$b1+$A]${b1} Utiliza:$r ./start$b\n"
 sleep 0.1
 echo
 sleep 1
+
+cp sudosu   $PREFIX/bin/
+
+chmod 777   $PREFIX/bin/sudosu
+
+
+
+
 exit

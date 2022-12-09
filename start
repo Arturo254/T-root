@@ -84,5 +84,5 @@ sleep 0.3
 printf "$A[$b1+$A]${b1} GitHub:$a      https://github.com/Arturo254\n"
 sleep 0.3
 sleep 0.3
-printf "$A[$b1+$A]${b1} Activacion:$a  Para Activar Root Utiliza La Palabra$r root$b\n"
+printf "$A[$b1+$A]${b1} Activacion:$a  Para Activar Root Utiliza La Palabra$r sudosu$b\n"
 echo
