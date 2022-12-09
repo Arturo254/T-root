@@ -1,3 +1,5 @@
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/6p8DZcNr/Picsart-22-12-09-17-18-34-342.jpg' border='0' alt='Picsart-22-12-09-17-18-34-342'/></a>
+
 # T-root
 EMULA EL ROOT (SOLO LO EMULA) PARÁ AQUELLAS HERRAMIENTAS QUE NECESITEN ROOT
 
