@@ -1,6 +1,12 @@
 # T-root
 EMULA EL ROOT (SOLO LO EMULA) PARÁ AQUELLAS HERRAMIENTAS QUE NECESITEN ROOT
 
+
+
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/J4hB8DbD/videos-2022-12-09-17-08-39.gif' border='0' alt='videos-2022-12-09-17-08-39'/></a>
+
+
+
 # INSTRUCCIONES
 
 ```
