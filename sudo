@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+read -s   -p "[~]$root password:"
+
+
+root

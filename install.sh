@@ -91,9 +91,10 @@ sleep 0.1
 echo
 sleep 1
 
-cp sudosu   $PREFIX/bin/
-
-chmod 777   $PREFIX/bin/sudosu
+cp sudo    $PREFIX/bin/
+cp su    $PREFIX/bin
+chmod 777   $PREFIX/bin/sudo
+chmod 777 $PREFIX/bin/su
 
 
 
