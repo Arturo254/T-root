@@ -22,5 +22,5 @@ bash install.sh
 
 # USO
 ```
-sudosu
+sudo su
 ```
